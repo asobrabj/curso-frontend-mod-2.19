@@ -1,4 +1,4 @@
-## Tipagem Simples e TS Lint
+##  Context API
   Esse projeto foi criado como exercício. 
   Foi criado uma calculadora conversora de moedas com api.
   
